@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<Rowsets DateCreated="2013-05-02T09:18:07" EndDate="2013-05-02T09:18:07" StartDate="2013-05-02T08:18:07" Version="12.0.6 Build(13)">
+  <Rowset>
+    <Columns>
+      <Column Description="ContactName" MaxRange="1" MinRange="0" Name="ContactName" SQLDataType="12" SourceColumn="ContactName" />
+      <Column Description="City" MaxRange="1" MinRange="0" Name="City" SQLDataType="12" SourceColumn="City" />
+      <Column Description="Country" MaxRange="1" MinRange="0" Name="Country" SQLDataType="12" SourceColumn="Country" />
+    </Columns>
+    <Row>
+      <ContactName>Maria Anders</ContactName>
+      <City>Berlin</City>
+      <Country>Germany</Country>
+    </Row>
+    <Row>
+      <ContactName>Ana Trujillo</ContactName>
+      <City>México D.F.</City>
+      <Country>Mexico</Country>
+    </Row>
+    <Row>
+      <ContactName>Antonio Moreno</ContactName>
+      <City>México D.F.</City>
+      <Country>Mexico</Country>
+    </Row>
+    <Row>
+      <ContactName>Thomas Hardy</ContactName>
+      <City>London</City>
+      <Country>UK</Country>
+    </Row>
+    <Row>
+      <ContactName>Christina Berglund</ContactName>
+      <City>Luleå</City>
+      <Country>Sweden</Country>
+    </Row>
+    <Row>
+      <ContactName>Hanna Moos</ContactName>
+      <City>Mannheim</City>
+      <Country>Germany</Country>
+    </Row>
+  </Rowset>
+</Rowsets>
